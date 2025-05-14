@@ -76,7 +76,7 @@ Translation at the sequence level\
 Source: ??
 ```
 
-## Flow of informatino in a eukaryotic cell
+## Flow of information in a eukaryotic cell
 Although the idea remains the same for eukaryotic cells, which is to pass the information from DNA to proteins, 
 the process is a tad more complicated. 
 
